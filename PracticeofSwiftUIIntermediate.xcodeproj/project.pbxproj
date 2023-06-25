@@ -13,6 +13,7 @@
 		06D9DC432A46094100BA25F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC422A46094100BA25F6 /* Preview Assets.xcassets */; };
 		06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC492A4609F800BA25F6 /* LongPressGesturePractice.swift */; };
 		06D9DC4C2A486C2600BA25F6 /* MagnificationGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC4B2A486C2500BA25F6 /* MagnificationGesturePractice.swift */; };
+		06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC4D2A4874E200BA25F6 /* RotationGesturePractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		06D9DC422A46094100BA25F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		06D9DC492A4609F800BA25F6 /* LongPressGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGesturePractice.swift; sourceTree = "<group>"; };
 		06D9DC4B2A486C2500BA25F6 /* MagnificationGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesturePractice.swift; sourceTree = "<group>"; };
+		06D9DC4D2A4874E200BA25F6 /* RotationGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGesturePractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				06D9DC3D2A46093700BA25F6 /* ContentView.swift */,
 				06D9DC492A4609F800BA25F6 /* LongPressGesturePractice.swift */,
 				06D9DC4B2A486C2500BA25F6 /* MagnificationGesturePractice.swift */,
+				06D9DC4D2A4874E200BA25F6 /* RotationGesturePractice.swift */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06D9DC4C2A486C2600BA25F6 /* MagnificationGesturePractice.swift in Sources */,
+				06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
