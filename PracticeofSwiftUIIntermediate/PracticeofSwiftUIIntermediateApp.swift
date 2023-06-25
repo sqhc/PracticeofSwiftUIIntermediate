@@ -11,7 +11,8 @@ import SwiftUI
 struct PracticeofSwiftUIIntermediateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            MagnificationGesturePractice()
         }
     }
 }
