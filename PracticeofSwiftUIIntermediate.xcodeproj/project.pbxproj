@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */; };
+		063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice.swift; sourceTree = "<group>"; };
+		063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice2.swift; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				06D9DC492A4609F800BA25F6 /* LongPressGesturePractice.swift */,
 				06D9DC4B2A486C2500BA25F6 /* MagnificationGesturePractice.swift */,
 				06D9DC4D2A4874E200BA25F6 /* RotationGesturePractice.swift */,
+				063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */,
+				063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
 			);
@@ -148,6 +154,8 @@
 			files = (
 				06D9DC4C2A486C2600BA25F6 /* MagnificationGesturePractice.swift in Sources */,
 				06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */,
+				063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */,
+				063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
