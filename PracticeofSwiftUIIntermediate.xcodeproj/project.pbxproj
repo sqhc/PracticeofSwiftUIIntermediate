@@ -11,6 +11,7 @@
 		063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */; };
 		063DB9D22A4B3D3100736E00 /* ScrollViewReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */; };
 		063DB9D42A4B544E00736E00 /* GeometryReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */; };
+		063DB9D62A4C9AE000736E00 /* MultipleSheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice2.swift; sourceTree = "<group>"; };
 		063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderPractice.swift; sourceTree = "<group>"; };
 		063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPractice.swift; sourceTree = "<group>"; };
+		063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsPractice.swift; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */,
 				063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */,
 				063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */,
+				063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				063DB9D22A4B3D3100736E00 /* ScrollViewReaderPractice.swift in Sources */,
 				06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */,
 				063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */,
+				063DB9D62A4C9AE000736E00 /* MultipleSheetsPractice.swift in Sources */,
 				063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
