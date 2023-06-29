@@ -13,6 +13,9 @@
 		063DB9D42A4B544E00736E00 /* GeometryReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */; };
 		063DB9D62A4C9AE000736E00 /* MultipleSheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */; };
 		063DB9D82A4CA92800736E00 /* MaskPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D72A4CA92700736E00 /* MaskPractice.swift */; };
+		063DB9DA2A4E070100736E00 /* SoundsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D92A4E070100736E00 /* SoundsPractice.swift */; };
+		063DB9DE2A4E0AA500736E00 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 063DB9DC2A4E0AA500736E00 /* tada.mp3 */; };
+		063DB9DF2A4E0AA500736E00 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 063DB9DD2A4E0AA500736E00 /* badum.mp3 */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -29,6 +32,9 @@
 		063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPractice.swift; sourceTree = "<group>"; };
 		063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsPractice.swift; sourceTree = "<group>"; };
 		063DB9D72A4CA92700736E00 /* MaskPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskPractice.swift; sourceTree = "<group>"; };
+		063DB9D92A4E070100736E00 /* SoundsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsPractice.swift; sourceTree = "<group>"; };
+		063DB9DC2A4E0AA500736E00 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		063DB9DD2A4E0AA500736E00 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,6 +56,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		063DB9DB2A4E0A7900736E00 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				063DB9DD2A4E0AA500736E00 /* badum.mp3 */,
+				063DB9DC2A4E0AA500736E00 /* tada.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		06D9DC2F2A46093700BA25F6 = {
 			isa = PBXGroup;
 			children = (
@@ -80,6 +95,8 @@
 				063DB9D32A4B544E00736E00 /* GeometryReaderPractice.swift */,
 				063DB9D52A4C9AE000736E00 /* MultipleSheetsPractice.swift */,
 				063DB9D72A4CA92700736E00 /* MaskPractice.swift */,
+				063DB9D92A4E070100736E00 /* SoundsPractice.swift */,
+				063DB9DB2A4E0A7900736E00 /* Sounds */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
 			);
@@ -152,8 +169,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				063DB9DF2A4E0AA500736E00 /* badum.mp3 in Resources */,
 				06D9DC432A46094100BA25F6 /* Preview Assets.xcassets in Resources */,
 				06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */,
+				063DB9DE2A4E0AA500736E00 /* tada.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,6 +193,7 @@
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
+				063DB9DA2A4E070100736E00 /* SoundsPractice.swift in Sources */,
 				063DB9D42A4B544E00736E00 /* GeometryReaderPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
