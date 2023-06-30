@@ -12,7 +12,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            MagnificationGesturePractice()
+//            MagnificationGesturePractice()
+            LocalNotificationsPractice()
         }
     }
 }
