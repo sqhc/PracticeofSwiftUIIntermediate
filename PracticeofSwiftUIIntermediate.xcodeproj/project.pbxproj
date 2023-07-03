@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		06315A562A4F3B6500870B9D /* HapticsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A552A4F3B6500870B9D /* HapticsPractice.swift */; };
 		06315A582A4F448200870B9D /* LocalNotificationsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */; };
+		06315A842A53320D00870B9D /* HashablePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A832A53320C00870B9D /* HashablePractice.swift */; };
 		063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */; };
 		063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */; };
 		063DB9D22A4B3D3100736E00 /* ScrollViewReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */; };
@@ -30,6 +31,7 @@
 /* Begin PBXFileReference section */
 		06315A552A4F3B6500870B9D /* HapticsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsPractice.swift; sourceTree = "<group>"; };
 		06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsPractice.swift; sourceTree = "<group>"; };
+		06315A832A53320C00870B9D /* HashablePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashablePractice.swift; sourceTree = "<group>"; };
 		063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice.swift; sourceTree = "<group>"; };
 		063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice2.swift; sourceTree = "<group>"; };
 		063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderPractice.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				063DB9D92A4E070100736E00 /* SoundsPractice.swift */,
 				06315A552A4F3B6500870B9D /* HapticsPractice.swift */,
 				06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */,
+				06315A832A53320C00870B9D /* HashablePractice.swift */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
@@ -201,6 +204,7 @@
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
+				06315A842A53320D00870B9D /* HashablePractice.swift in Sources */,
 				063DB9DA2A4E070100736E00 /* SoundsPractice.swift in Sources */,
 				063DB9D42A4B544E00736E00 /* GeometryReaderPractice.swift in Sources */,
 			);
