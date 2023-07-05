@@ -11,6 +11,8 @@
 		06315A582A4F448200870B9D /* LocalNotificationsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */; };
 		06315A842A53320D00870B9D /* HashablePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A832A53320C00870B9D /* HashablePractice.swift */; };
 		06315A862A5339B400870B9D /* ArraysPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315A852A5339B400870B9D /* ArraysPractice.swift */; };
+		06315AA72A55D7CE00870B9D /* CoreDataPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06315AA62A55D7CD00870B9D /* CoreDataPractice.swift */; };
+		06315AAA2A55DAD200870B9D /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */; };
 		063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */; };
 		063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */; };
 		063DB9D22A4B3D3100736E00 /* ScrollViewReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */; };
@@ -34,6 +36,8 @@
 		06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsPractice.swift; sourceTree = "<group>"; };
 		06315A832A53320C00870B9D /* HashablePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashablePractice.swift; sourceTree = "<group>"; };
 		06315A852A5339B400870B9D /* ArraysPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysPractice.swift; sourceTree = "<group>"; };
+		06315AA62A55D7CD00870B9D /* CoreDataPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataPractice.swift; sourceTree = "<group>"; };
+		06315AA92A55DAD200870B9D /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		063DB9CB2A49FBA400736E00 /* DragGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice.swift; sourceTree = "<group>"; };
 		063DB9CD2A4A026600736E00 /* DragGesturePractice2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesturePractice2.swift; sourceTree = "<group>"; };
 		063DB9D12A4B3D3100736E00 /* ScrollViewReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderPractice.swift; sourceTree = "<group>"; };
@@ -108,6 +112,8 @@
 				06315A572A4F448200870B9D /* LocalNotificationsPractice.swift */,
 				06315A832A53320C00870B9D /* HashablePractice.swift */,
 				06315A852A5339B400870B9D /* ArraysPractice.swift */,
+				06315AA62A55D7CD00870B9D /* CoreDataPractice.swift */,
+				06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
 				06D9DC412A46094100BA25F6 /* Preview Content */,
@@ -195,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06315AAA2A55DAD200870B9D /* FruitsContainer.xcdatamodeld in Sources */,
 				06D9DC4C2A486C2600BA25F6 /* MagnificationGesturePractice.swift in Sources */,
 				063DB9D22A4B3D3100736E00 /* ScrollViewReaderPractice.swift in Sources */,
 				06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */,
@@ -205,6 +212,7 @@
 				063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */,
 				063DB9D82A4CA92800736E00 /* MaskPractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
+				06315AA72A55D7CE00870B9D /* CoreDataPractice.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
 				06315A862A5339B400870B9D /* ArraysPractice.swift in Sources */,
@@ -413,6 +421,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				06315AA92A55DAD200870B9D /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = 06315AA92A55DAD200870B9D /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 06D9DC302A46093700BA25F6 /* Project object */;
 }

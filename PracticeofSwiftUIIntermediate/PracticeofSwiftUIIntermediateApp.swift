@@ -13,7 +13,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
         WindowGroup {
 //            ContentView()
 //            MagnificationGesturePractice()
-            LocalNotificationsPractice()
+//            LocalNotificationsPractice()
+            CoreDataPractice()
         }
     }
 }
