@@ -22,6 +22,8 @@
 		063DB9DA2A4E070100736E00 /* SoundsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063DB9D92A4E070100736E00 /* SoundsPractice.swift */; };
 		063DB9DE2A4E0AA500736E00 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 063DB9DC2A4E0AA500736E00 /* tada.mp3 */; };
 		063DB9DF2A4E0AA500736E00 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 063DB9DD2A4E0AA500736E00 /* badum.mp3 */; };
+		068CC1D22A571AC00062E54B /* CoreDataRelationshipsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1D12A571AC00062E54B /* CoreDataRelationshipsPractice.swift */; };
+		068CC1D52A57272D0062E54B /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -47,6 +49,8 @@
 		063DB9D92A4E070100736E00 /* SoundsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsPractice.swift; sourceTree = "<group>"; };
 		063DB9DC2A4E0AA500736E00 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		063DB9DD2A4E0AA500736E00 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
+		068CC1D12A571AC00062E54B /* CoreDataRelationshipsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsPractice.swift; sourceTree = "<group>"; };
+		068CC1D42A57272D0062E54B /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +117,8 @@
 				06315A832A53320C00870B9D /* HashablePractice.swift */,
 				06315A852A5339B400870B9D /* ArraysPractice.swift */,
 				06315AA62A55D7CD00870B9D /* CoreDataPractice.swift */,
+				068CC1D12A571AC00062E54B /* CoreDataRelationshipsPractice.swift */,
+				068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */,
 				06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
 				06D9DC3F2A46094100BA25F6 /* Assets.xcassets */,
@@ -209,6 +215,7 @@
 				06315A582A4F448200870B9D /* LocalNotificationsPractice.swift in Sources */,
 				063DB9D62A4C9AE000736E00 /* MultipleSheetsPractice.swift in Sources */,
 				06315A562A4F3B6500870B9D /* HapticsPractice.swift in Sources */,
+				068CC1D52A57272D0062E54B /* CoreDataContainer.xcdatamodeld in Sources */,
 				063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */,
 				063DB9D82A4CA92800736E00 /* MaskPractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
@@ -216,6 +223,7 @@
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
 				06D9DC4A2A4609F800BA25F6 /* LongPressGesturePractice.swift in Sources */,
 				06315A862A5339B400870B9D /* ArraysPractice.swift in Sources */,
+				068CC1D22A571AC00062E54B /* CoreDataRelationshipsPractice.swift in Sources */,
 				06315A842A53320D00870B9D /* HashablePractice.swift in Sources */,
 				063DB9DA2A4E070100736E00 /* SoundsPractice.swift in Sources */,
 				063DB9D42A4B544E00736E00 /* GeometryReaderPractice.swift in Sources */,
@@ -430,6 +438,16 @@
 			);
 			currentVersion = 06315AA92A55DAD200870B9D /* FruitsContainer.xcdatamodel */;
 			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				068CC1D42A57272D0062E54B /* CoreDataContainer.xcdatamodel */,
+			);
+			currentVersion = 068CC1D42A57272D0062E54B /* CoreDataContainer.xcdatamodel */;
+			path = CoreDataContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
