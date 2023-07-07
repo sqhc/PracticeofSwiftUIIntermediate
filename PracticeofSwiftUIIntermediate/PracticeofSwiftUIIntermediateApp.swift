@@ -16,7 +16,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            LocalNotificationsPractice()
 //            CoreDataPractice()
 //            CoreDataRelationshipsPractice()
-            BackgroundThreadPractice()
+//            BackgroundThreadPractice()
+            WeakSelfPractice()
         }
     }
 }
