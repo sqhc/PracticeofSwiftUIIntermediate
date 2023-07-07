@@ -15,7 +15,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            MagnificationGesturePractice()
 //            LocalNotificationsPractice()
 //            CoreDataPractice()
-            CoreDataRelationshipsPractice()
+//            CoreDataRelationshipsPractice()
+            BackgroundThreadPractice()
         }
     }
 }
