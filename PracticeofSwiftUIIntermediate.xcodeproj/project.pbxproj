@@ -27,6 +27,7 @@
 		068CC1D72A5878D00062E54B /* BackgroundThreadPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1D62A5878D00062E54B /* BackgroundThreadPractice.swift */; };
 		068CC1D92A58850A0062E54B /* WeakSelfPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1D82A58850A0062E54B /* WeakSelfPractice.swift */; };
 		068CC1FB2A5C6BDF0062E54B /* TypealiasPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1FA2A5C6BDF0062E54B /* TypealiasPractice.swift */; };
+		068CC1FD2A5C74970062E54B /* EscapingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC1FC2A5C74970062E54B /* EscapingPractice.swift */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -57,6 +58,7 @@
 		068CC1D62A5878D00062E54B /* BackgroundThreadPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadPractice.swift; sourceTree = "<group>"; };
 		068CC1D82A58850A0062E54B /* WeakSelfPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfPractice.swift; sourceTree = "<group>"; };
 		068CC1FA2A5C6BDF0062E54B /* TypealiasPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasPractice.swift; sourceTree = "<group>"; };
+		068CC1FC2A5C74970062E54B /* EscapingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingPractice.swift; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				068CC1D62A5878D00062E54B /* BackgroundThreadPractice.swift */,
 				068CC1D82A58850A0062E54B /* WeakSelfPractice.swift */,
 				068CC1FA2A5C6BDF0062E54B /* TypealiasPractice.swift */,
+				068CC1FC2A5C74970062E54B /* EscapingPractice.swift */,
 				068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */,
 				06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
@@ -230,6 +233,7 @@
 				063DB9CC2A49FBA400736E00 /* DragGesturePractice.swift in Sources */,
 				068CC1FB2A5C6BDF0062E54B /* TypealiasPractice.swift in Sources */,
 				063DB9D82A4CA92800736E00 /* MaskPractice.swift in Sources */,
+				068CC1FD2A5C74970062E54B /* EscapingPractice.swift in Sources */,
 				06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */,
 				06315AA72A55D7CE00870B9D /* CoreDataPractice.swift in Sources */,
 				06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */,
