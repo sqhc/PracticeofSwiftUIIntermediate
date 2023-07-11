@@ -17,7 +17,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            CoreDataPractice()
 //            CoreDataRelationshipsPractice()
 //            BackgroundThreadPractice()
-            WeakSelfPractice()
+//            WeakSelfPractice()
+            CodablePractice()
         }
     }
 }
