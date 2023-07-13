@@ -19,7 +19,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            BackgroundThreadPractice()
 //            WeakSelfPractice()
 //            CodablePractice()
-            DownloadWithEscapingPractice()
+//            DownloadWithEscapingPractice()
+            DownloadWithCombinePractice()
         }
     }
 }
