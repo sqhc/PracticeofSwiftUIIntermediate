@@ -18,7 +18,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            CoreDataRelationshipsPractice()
 //            BackgroundThreadPractice()
 //            WeakSelfPractice()
-            CodablePractice()
+//            CodablePractice()
+            DownloadWithEscapingPractice()
         }
     }
 }
