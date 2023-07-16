@@ -32,6 +32,7 @@
 		068CC2012A5F04DD0062E54B /* DownloadWithEscapingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2002A5F04DD0062E54B /* DownloadWithEscapingPractice.swift */; };
 		068CC2032A6054700062E54B /* DownloadWithCombinePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2022A60546F0062E54B /* DownloadWithCombinePractice.swift */; };
 		068CC2052A61B2760062E54B /* TimerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2042A61B2750062E54B /* TimerPractice.swift */; };
+		068CC2072A6445650062E54B /* SubscriberPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2062A6445630062E54B /* SubscriberPractice.swift */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -67,6 +68,7 @@
 		068CC2002A5F04DD0062E54B /* DownloadWithEscapingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingPractice.swift; sourceTree = "<group>"; };
 		068CC2022A60546F0062E54B /* DownloadWithCombinePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombinePractice.swift; sourceTree = "<group>"; };
 		068CC2042A61B2750062E54B /* TimerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerPractice.swift; sourceTree = "<group>"; };
+		068CC2062A6445630062E54B /* SubscriberPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberPractice.swift; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				068CC2002A5F04DD0062E54B /* DownloadWithEscapingPractice.swift */,
 				068CC2022A60546F0062E54B /* DownloadWithCombinePractice.swift */,
 				068CC2042A61B2750062E54B /* TimerPractice.swift */,
+				068CC2062A6445630062E54B /* SubscriberPractice.swift */,
 				068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */,
 				06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
@@ -231,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				068CC2072A6445650062E54B /* SubscriberPractice.swift in Sources */,
 				068CC1D92A58850A0062E54B /* WeakSelfPractice.swift in Sources */,
 				06315AAA2A55DAD200870B9D /* FruitsContainer.xcdatamodeld in Sources */,
 				06D9DC4C2A486C2600BA25F6 /* MagnificationGesturePractice.swift in Sources */,
