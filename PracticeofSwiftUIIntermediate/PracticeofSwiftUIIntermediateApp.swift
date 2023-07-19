@@ -20,7 +20,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            WeakSelfPractice()
 //            CodablePractice()
 //            DownloadWithEscapingPractice()
-            DownloadWithCombinePractice()
+//            DownloadWithCombinePractice()
+            FileManagerPractice()
         }
     }
 }
