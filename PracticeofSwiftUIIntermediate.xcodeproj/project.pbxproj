@@ -34,6 +34,7 @@
 		068CC2052A61B2760062E54B /* TimerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2042A61B2750062E54B /* TimerPractice.swift */; };
 		068CC2072A6445650062E54B /* SubscriberPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2062A6445630062E54B /* SubscriberPractice.swift */; };
 		068CC2092A65BF540062E54B /* FileManagerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068CC2082A65BF540062E54B /* FileManagerPractice.swift */; };
+		06CBCFC82A6F088800A81740 /* CachePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06CBCFC72A6F088700A81740 /* CachePractice.swift */; };
 		06D9DC3C2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */; };
 		06D9DC3E2A46093700BA25F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC3D2A46093700BA25F6 /* ContentView.swift */; };
 		06D9DC402A46094100BA25F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D9DC3F2A46094100BA25F6 /* Assets.xcassets */; };
@@ -71,6 +72,7 @@
 		068CC2042A61B2750062E54B /* TimerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerPractice.swift; sourceTree = "<group>"; };
 		068CC2062A6445630062E54B /* SubscriberPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberPractice.swift; sourceTree = "<group>"; };
 		068CC2082A65BF540062E54B /* FileManagerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerPractice.swift; sourceTree = "<group>"; };
+		06CBCFC72A6F088700A81740 /* CachePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachePractice.swift; sourceTree = "<group>"; };
 		06D9DC382A46093700BA25F6 /* PracticeofSwiftUIIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeofSwiftUIIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D9DC3B2A46093700BA25F6 /* PracticeofSwiftUIIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeofSwiftUIIntermediateApp.swift; sourceTree = "<group>"; };
 		06D9DC3D2A46093700BA25F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				068CC2042A61B2750062E54B /* TimerPractice.swift */,
 				068CC2062A6445630062E54B /* SubscriberPractice.swift */,
 				068CC2082A65BF540062E54B /* FileManagerPractice.swift */,
+				06CBCFC72A6F088700A81740 /* CachePractice.swift */,
 				068CC1D32A57272D0062E54B /* CoreDataContainer.xcdatamodeld */,
 				06315AA82A55DAD200870B9D /* FruitsContainer.xcdatamodeld */,
 				063DB9DB2A4E0A7900736E00 /* Sounds */,
@@ -245,6 +248,7 @@
 				06D9DC4E2A4874E200BA25F6 /* RotationGesturePractice.swift in Sources */,
 				063DB9CE2A4A026600736E00 /* DragGesturePractice2.swift in Sources */,
 				068CC1D72A5878D00062E54B /* BackgroundThreadPractice.swift in Sources */,
+				06CBCFC82A6F088800A81740 /* CachePractice.swift in Sources */,
 				06315A582A4F448200870B9D /* LocalNotificationsPractice.swift in Sources */,
 				068CC2012A5F04DD0062E54B /* DownloadWithEscapingPractice.swift in Sources */,
 				063DB9D62A4C9AE000736E00 /* MultipleSheetsPractice.swift in Sources */,
