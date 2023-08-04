@@ -21,7 +21,8 @@ struct PracticeofSwiftUIIntermediateApp: App {
 //            CodablePractice()
 //            DownloadWithEscapingPractice()
 //            DownloadWithCombinePractice()
-            FileManagerPractice()
+//            FileManagerPractice()
+            DownloadingImagePractice()
         }
     }
 }
